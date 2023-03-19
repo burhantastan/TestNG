@@ -36,7 +36,7 @@ public class C03_DataProvider {
         ReusableMethods.bekle(2);
         String actualurl= Driver.getDriver().getCurrentUrl();
 
-        Assert.assertEquals(actualurl,ConfigReader.getProperty(gidilecekSite)+"/");
+        Assert.assertEquals(actualurl, ConfigReader.getProperty(gidilecekSite)+"/");
 
         Driver.closeDriver();
     }
