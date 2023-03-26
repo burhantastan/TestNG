@@ -1,4 +1,4 @@
-package tests.day13_crossBrowserTests;
+package tests.day11_POM_assertions.day13_crossBrowserTests;
 
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;

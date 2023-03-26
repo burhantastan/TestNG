@@ -46,6 +46,7 @@ public class C03_BeforeAfterNotasyonlari {
     public void test03(){
         System.out.println("test3");
     }
+
     @AfterSuite
     public void afterSuite(){
         System.out.println("After Suite");

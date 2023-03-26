@@ -13,7 +13,7 @@ public class C02_dependsOnMethods {
         bu durumda dependsOnMethods kullanmak daha guzel olur
         dependsOnMethod ile baska bir method'a bagli olan method'u bagimsiz calistirmak istersek
         once bagli oldugui method'u calistirir, sonra kendisi calisir
-        Ancak bu 2 method icin gecerlidir, 3 method calistirmaz
+        Ancak bu 2 method icin gecerlidir, 3 method calistiramaz
         dependsOnMethods bir siralama yontemi DEGILDIR
         sira bagli olan bir method'a geldiginde,
         oncelikle bagli oldugu method'un calismasini ve PASSED olmasini bekler

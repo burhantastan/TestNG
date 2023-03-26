@@ -1,4 +1,4 @@
-package tests.day13_crossBrowserTests;
+package tests.day11_POM_assertions.day13_crossBrowserTests;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
